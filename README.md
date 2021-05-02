@@ -21,6 +21,7 @@ You can find more details about our approach, equations, and results in `Documen
 ## Getting Started
 1.  Clone our repo: `git clone https://github.com/HusseinLezzaik/Consensus-Algorithm.git`
 2.  Install [MATLAB](https://fr.mathworks.com/products/matlab-online.html)
+3.  Run `Code/method.md` to replicate our experiments.
 
 
 ## Maintainers
