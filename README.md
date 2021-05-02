@@ -16,7 +16,7 @@ In this repo, you'll find :
 * `Code`: Folder that contains all code for our algorithms and simulation.
 * `Documentation`: Folder that contains our final report and presentation.
 
-You can find more details about our approach, equations, and results in `Documentation/report.pdf'.
+You can find more details about our approach, equations, and results in `Documentation/report.pdf`.
 
 ## Getting Started
 1.  Clone our repo: `git clone https://github.com/HusseinLezzaik/Consensus-Algorithm.git`
