@@ -5,14 +5,22 @@ Consensus is an important problem in cooperative control, where several agents h
 
 The purpose of our project is to propose a consensus-based control law that lets the agents meet in the specified location (0,0), study the behavior of our system and simplify our graphical model.
 
+## Methodology
+1.  We plot the graph of the system.
+2.  We propose a consensus-based control law that let the agents meet in the specified location.
+3.  We implement the control system in MATLAB Simulink and analyze the results function of the controllers gains.
+4.  We proposed another simplified graph with less connections, adapted the proposed controller and analyzed the simulation results.
+
 ## Overview of the Repository
 In this repo, you'll find :
+* `Code`: Folder that contains all code for our algorithms and simulation.
+* `Documentation`: Folder that contains our final report and presentation.
 
-
+You can find more details about our approach, equations, and results in `Documentation/report.pdf'.
 
 ## Getting Started
 1.  Clone our repo: `git clone https://github.com/HusseinLezzaik/Consensus-Algorithm.git`
-2.  Install dependencies: [MATLAB](https://fr.mathworks.com/products/matlab-online.html)
+2.  Install [MATLAB](https://fr.mathworks.com/products/matlab-online.html)
 
 
 ## Maintainers
